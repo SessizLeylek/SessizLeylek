@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a student in Istanbul Techincal University who is interested in programming since 10 years old.<br>I usually dabble with video game development but I'm interested in most field of computer science except fields like front-end development, AI, data science etc.<br>I enjoy having the control and being able to predict while programming, so i hate interpreted/weak typed programming languages like Javascript, Python...<br>For the recent months, I'm mostly interested in data-oriented programming and procedural programming languages.</p>
+<p align="center">I am a student in Istanbul Techincal University who is interested in programming since 10 years old.<br>I usually dabble with video game development but I'm interested in most field of computer science except fields like front-end development, AI, data science etc.<br>I enjoy having the control and being able to predict while programming.<br>For the recent months, I'm mostly interested in data-oriented programming and procedural programming languages.</p>
 
 ###
 
